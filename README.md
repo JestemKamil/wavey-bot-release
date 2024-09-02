@@ -1,2 +1,2 @@
 # wavey-bot-release
-Releases of wavey bot
+W releases można pobrać bota.
